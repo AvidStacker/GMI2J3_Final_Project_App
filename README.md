@@ -1,1 +1,1 @@
-# GMI2J3_Final_Project_App
+# GMI2J3 Final Project App
